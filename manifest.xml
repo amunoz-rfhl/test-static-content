@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string><![CDATA[https://storage.googleapis.com/apphost-66d7d.appspot.com/users/4OMxl3yJVKPaAlBq0DUNC8dLjOs2/apps/qrAim5KPxV6xi425a1iC/files/6kMTzo0NDFppYAkltB42/app.ipa?GoogleAccessId=apphost-66d7d%40appspot.gserviceaccount.com&Expires=1711671881&Signature=ldryFUXRuqBYh0d98dYC5V3Du2fEdsHvnJArVIYhW6VlkfT6jJHQJhI9e4Jz84dR61ABO732RCWnKEwG60Qz%2FJfr%2F3K1Tci8Qu7HJVMkxs798ZkqN08X9VWOZ0GTqG0kjskfJaNr9CJxwC2sPUCj5dM1gq6GXDcboSmTTq%2FpqxrEU%2Bqw1PyeamkLrtosjuKJ4yux46ID2iLe5dvAgk%2FsB1P26NwAjq9ZW3HA1zdaJXEYIbVrX7E7xRG5xngLl1%2FHBacLPdh7IrSox%2FkHLrE%2BwotyPH4CBQB0tvzHC0TMF2Xilq8f6i0chEugv7kqv0V4O%2FRBhePHt0ML0Addc7aCVQ%3D%3D&response-content-disposition=attachment%3B%20filename%3D%22app.ipa%22]]></string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.endcash.ota</string>
+        <key>bundle-version</key>
+        <string>1.0</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>New App</string>
+        <key>subtitle</key>
+        <string>Alfonso</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
